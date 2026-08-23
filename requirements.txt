@@ -1,0 +1,4 @@
+# 特工67 运行依赖
+# 打包前安装： pip install pygame pyinstaller
+pygame>=2.5
+pyinstaller>=6.0
